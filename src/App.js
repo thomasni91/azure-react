@@ -7,9 +7,7 @@ function App() {
       <header className="App-header">
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
         <input type="file"></input>
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        <p>hello world</p>
         <a
           className="App-link"
           href="https://reactjs.org"
