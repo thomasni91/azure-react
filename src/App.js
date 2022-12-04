@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
         <input type="file"></input>
-        <p>hello world</p>
+        <p>hello thomas</p>
         <a
           className="App-link"
           href="https://reactjs.org"
